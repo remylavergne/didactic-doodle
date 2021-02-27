@@ -1,0 +1,3 @@
+[submodule "spotfinder-backend"]
+	path = spotfinder-backend
+	url = git@github.com:remylavergne/spotfinder-backend.git
