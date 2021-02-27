@@ -1,3 +1,9 @@
 [submodule "spotfinder-backend"]
 	path = spotfinder-backend
 	url = git@github.com:remylavergne/spotfinder-backend.git
+[submodule "spotfinder-web"]
+	path = spotfinder-web
+	url = git@github.com:remylavergne/spotfinder-web.git
+[submodule "spotfinder-mobile"]
+	path = spotfinder-mobile
+	url = git@github.com:remylavergne/spotfinder-mobile.git
